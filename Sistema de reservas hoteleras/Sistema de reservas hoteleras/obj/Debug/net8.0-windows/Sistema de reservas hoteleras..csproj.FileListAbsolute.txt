@@ -1,0 +1,20 @@
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\bin\Debug\net8.0-windows\Sistema de reservas hoteleras..exe
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\bin\Debug\net8.0-windows\Sistema de reservas hoteleras..deps.json
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\bin\Debug\net8.0-windows\Sistema de reservas hoteleras..runtimeconfig.json
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\bin\Debug\net8.0-windows\Sistema de reservas hoteleras..dll
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\bin\Debug\net8.0-windows\Sistema de reservas hoteleras..pdb
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema_de_reservas_hoteleras_.Form1.resources
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema_de_reservas_hoteleras_.Properties.Resources.resources
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..csproj.GenerateResource.cache
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..AssemblyInfoInputs.cache
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..AssemblyInfo.cs
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..csproj.CoreCompileInputs.cache
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..dll
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\refint\Sistema de reservas hoteleras..dll
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..pdb
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema de reservas hoteleras..genruntimeconfig.cache
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\ref\Sistema de reservas hoteleras..dll
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema_de_reservas_hoteleras_.Form2.resources
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema_de_reservas_hoteleras_.Form3.resources
+C:\Users\Hianny Marte\source\repos\Sistema de reservas hoteleras\Sistema de reservas hoteleras\obj\Debug\net8.0-windows\Sistema_de_reservas_hoteleras_.Form4.resources

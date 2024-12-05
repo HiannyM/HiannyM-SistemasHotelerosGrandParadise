@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema de reservas hoteleras./1.0.0": {
+        "runtime": {
+          "Sistema de reservas hoteleras..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de reservas hoteleras./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
